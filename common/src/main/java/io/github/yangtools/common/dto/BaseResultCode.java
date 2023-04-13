@@ -1,4 +1,4 @@
-package com.yangtools.common.dto;
+package io.github.yangtools.common.dto;
 
 /**
  * @author dylanMa

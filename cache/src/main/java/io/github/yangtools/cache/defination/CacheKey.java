@@ -1,4 +1,4 @@
-package com.yangtools.cache.defination;
+package io.github.yangtools.cache.defination;
 
 import javax.annotation.Nonnull;
 import java.time.Duration;
