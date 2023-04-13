@@ -49,6 +49,7 @@
     <modules>
         <module>more-lambda</module>
         <module>common</module>
+        <module>cache</module>
     </modules>
     <dependencyManagement>
         <dependencies>

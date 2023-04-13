@@ -78,6 +78,10 @@ public class ResultDTO<T> {
         return success(null);
     }
 
+    public static ResultDTO<Void> success(ResultCode resultCode) {
+        return success(resultCode, resultCode.getMessage(), null);
+    }
+
     public static <U> ResultDTO<U> success(U data) {
         return success(null, data);
     }
