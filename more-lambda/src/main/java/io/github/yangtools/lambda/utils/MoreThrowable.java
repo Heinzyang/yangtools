@@ -1,4 +1,4 @@
-package com.github.yangtools.lambda.utils;
+package io.github.yangtools.lambda.utils;
 
 import java.util.Objects;
 
