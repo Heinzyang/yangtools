@@ -1,4 +1,4 @@
-package io.github.yangtools.common.dto;
+package io.github.heinzyang.yangtools.common.dto;
 
 import javax.annotation.Nullable;
 import java.util.Objects;
